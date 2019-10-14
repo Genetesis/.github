@@ -1,0 +1,52 @@
+[
+  {
+    "name": "architecture",
+    "color": "eeeeee",
+    "description": "Major code changes to improve overall design"
+  },
+  {
+    "name": "bugfix",
+    "color": "f7ddbb",
+    "description": "Something isn't working and will be added to release"
+  },
+  {
+    "name": "deployment",
+    "color": "f48924",
+    "description": "Changes to continuous integration pipeline"
+  },
+  {
+    "name": "feature",
+    "color": "2dde98",
+    "description": "New enhancement or request"
+  },
+  {
+    "name": "hold",
+    "color": "050f2c",
+    "description": "Temporary hold before accepting or merging"
+  },
+  {
+    "name": "hotfix",
+    "color": "ff4f81",
+    "description": "Something isn't working and must be fixed ASAP"
+  },
+  {
+    "name": "refactor",
+    "color": "6041a8",
+    "description": "Improve source code without changing functionality"
+  },
+  {
+    "name": "release",
+    "color": "ffdd00",
+    "description": "Release from `master` branch"
+  },
+  {
+    "name": "spike",
+    "color": "bff3fc",
+    "description": "Proof of concept for new feature or pattern"
+  },
+  {
+    "name": "testing",
+    "color": "3369e7",
+    "description": "Adding, rewriting, or fixing automated tests"
+  }
+]
