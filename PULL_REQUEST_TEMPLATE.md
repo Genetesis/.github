@@ -20,4 +20,3 @@
 
 ## Screenshots (if appropriate):
 <!--- Add link to sketch screenshots when expected -->
-
