@@ -13,6 +13,7 @@
 ## Card Link
 
 <!--- Add link to JIRA/Trello Card -->
+<!--- Example: [FAR-123] -->
 
 ## Dependent Repos/Branchs/PRs
 
