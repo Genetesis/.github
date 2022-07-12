@@ -1,14 +1,11 @@
 <!--- Provide a general summary of your changes in the title above -->
-<!--- Include Jira issue number to link PR to Jira -->
 <!--- Example: Feature: Scan Interpretations [FAR-123] -->
+
+<!--- If necessary, for each file changed in your PR, use GitHub's PR review commenting feature to mark notes on important lines, points of discussion, etc. --->
 
 ## Description
 
 <!--- 1-2 sentence summary of changes in PR // Narrative Format -->
-
-## Summary of Changes
-
-<!--- Go through files changed, with quick description of changes introduced in each file--->
 
 ## Card Link
 
@@ -18,8 +15,12 @@
 ## Dependent Repos/Branchs/PRs
 
 <!--- Any repository/pull request that is required to fully test changes that is presented in respective PR-->
+<!-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests -->
 
-- [`<repo>` - `<branch>`](/url/to/pr)
+<!-- For same-repository PRs/Issues -->
+<!-- Example: - #2 -->
+<!-- For other repository PRs/Issues -->
+<!-- Example: - Genetesis/genetesis-api#2 -->
 
 ## Test Steps
 
