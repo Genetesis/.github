@@ -7,7 +7,6 @@
 
 ## Related Issues/PRs
 
-<!--- Any issues/PRs that are related to changes presented in this PR-->
 <!-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests -->
 
 <!-- For same-repository PRs/Issues -->
