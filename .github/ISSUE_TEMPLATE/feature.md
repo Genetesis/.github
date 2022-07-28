@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-# Feature Description
-
 # Acceptance Criteria
 
 # Definition of Done
