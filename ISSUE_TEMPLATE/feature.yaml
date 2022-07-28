@@ -1,19 +1,14 @@
 ---
 name: Feature
 about: Request a feature
-# description: Request a feature
-labels: ["feature"]
+title: ''
+labels: feature
+assignees: ''
+
 ---
-# body:
-# - type: textarea
-#   attributes:
-#     label: Describe the feature
-#     description: A concise description of the feature.
-#   validations:
-#     required: false
-# - type: textarea
-#   attributes:
-#     label: Describe the feature
-#     description: A concise description of the feature.
-#   validations:
-#     required: false
+
+# Feature Description
+
+# Acceptance Criteria
+
+# Definition of Done
