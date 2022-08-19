@@ -1,18 +1,18 @@
-*.js @Genetesis/FrontEnd @Genetesis/FullStack
-*.css @Genetesis/FrontEnd @Genetesis/FullStack
-*.scss @Genetesis/FrontEnd @Genetesis/FullStack
-*.html @Genetesis/FrontEnd @Genetesis/FullStack
-*.vue @Genetesis/FrontEnd @Genetesis/FullStack
-*.snap @Genetesis/FrontEnd @Genetesis/FullStack
+*.js @Genetesis/frontend
+*.css @Genetesis/frontend
+*.scss @Genetesis/frontend
+*.html @Genetesis/frontend
+*.vue @Genetesis/frontend
+*.snap @Genetesis/frontend
 
-*.ipynb @Genetesis/Data
+*.ipynb @Genetesis/data
 
 *.py @austintoot40
 
-*.tf @Genetesis/DevOps
-.dockerignore @Genetesis/DevOps
-.github/ @Genetesis/DevOps
-terraform/ @Genetesis/DevOps
-Dockerfile @Genetesis/DevOps
+*.tf @Genetesis/devops
+.dockerignore @Genetesis/devops
+.github/ @Genetesis/devops
+terraform/ @Genetesis/devops
+Dockerfile @Genetesis/devops
 
-docs/ @Genetesis/Admin
+docs/ @Genetesis/admin
